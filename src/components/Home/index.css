@@ -1,0 +1,31 @@
+.courses-container {
+  padding: 30px;
+}
+
+.courses-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.button {
+  background-color: #4656a1;
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 15px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  height: 36px;
+  width: 90px;
+  border-radius: 6px;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fail-image {
+  height: 200px;
+  width: 350px;
+}
